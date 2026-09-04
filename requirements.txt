@@ -2,4 +2,4 @@ pyrogram==2.0.106
 pytgcalls==2.1.0
 yt-dlp==2023.12.30
 aiohttp==3.9.1
-cryptg==1.5.2
+cryptg>=0.5.0

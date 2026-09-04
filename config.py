@@ -1,9 +1,9 @@
 import os
 
 # ---------- BOT CONFIG ----------
-API_ID = 123456  # Replace with your API ID
-API_HASH = "your_api_hash"  # Replace with your API Hash
-BOT_TOKEN = "your_bot_token"  # Replace with your Bot Token
+API_ID = 32141443  # Replace with your API ID
+API_HASH = "4f34a89257ac316505f5a47b237454cc"  # Replace with your API Hash
+BOT_TOKEN = "8640436717:AAGmtHtXFwTFFleJbML3THVf-3Y3d6_gjlg"  # Replace with your Bot Token
 
 # ---------- FOLDERS ----------
 DOWNLOAD_DIR = "downloads"
